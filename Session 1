@@ -1,0 +1,118 @@
+# ICPC-UFE Community  Session 1 — C++ 
+# Session 1 — Introduction to Problem Solving (PS)
+
+**Objective:** Introduce participants to competitive programming mindset, problem-solving strategies, and foundational concepts for ICPC.
+
+---
+
+## 1. What is Problem Solving (PS)?
+
+- Problem Solving in programming is the ability to **analyze a problem**, **devise a plan**, and **implement a solution efficiently**.  
+- It involves thinking logically, breaking problems into smaller parts, and using programming constructs effectively.  
+- ICPC problems test not only coding skills but **algorithmic thinking, accuracy, and efficiency**.
+
+---
+
+## 2. The Problem-Solving Process
+
+1. **Understand the problem**  
+   - Read the problem carefully.  
+   - Identify the input and output requirements.  
+   - Determine constraints and limits.
+
+2. **Devise a plan (Algorithm)**  
+   - Think of a step-by-step method to solve the problem.  
+   - Break the problem into smaller, manageable pieces.  
+   - Choose appropriate data structures (arrays, strings, sets, etc.)
+
+3. **Implement the plan**  
+   - Translate the algorithm into code using your preferred language (e.g., C++).  
+   - Follow proper syntax, input/output, and data types.
+
+4. **Test your solution**  
+   - Use sample inputs to verify correctness.  
+   - Check edge cases and special scenarios.
+
+5. **Optimize**  
+   - Analyze time and space complexity.  
+   - Improve efficiency if necessary using algorithms or better data structures.
+
+---
+
+## 3. Key Concepts in Problem Solving
+
+### a) Understanding the Problem
+- Focus on **what is given** and **what is asked**.  
+- Identify keywords and constraints.  
+- Draw diagrams or examples to visualize the problem.
+
+### b) Algorithms
+- A **sequence of steps** to solve a problem.  
+- Common beginner concepts:  
+  - Sequential execution (step by step)  
+  - Conditional execution (`if-else`)  
+  - Repetition/loops (`for`, `while`)  
+  - Simple calculations
+
+### c) Data Structures
+- Structures to store and organize data efficiently.  
+- Common beginner structures:  
+  - Variables  
+  - Arrays  
+  - Strings  
+  - Boolean flags
+
+### d) Logical Thinking
+- Break problems into **smaller, manageable parts**.  
+- Think of input/output examples and edge cases.  
+- Use **patterns** and reasoning before coding.
+
+---
+
+## 4. Steps to Approach ICPC Problems
+
+1. **Read the problem twice** — never assume anything.  
+2. **Identify constraints** — e.g., N ≤ 1000 → O(N^2) may be acceptable.  
+3. **Think of a naive solution first**, then improve it.  
+4. **Use examples** — try sample input manually.  
+5. **Write clean code** — easy to debug and maintain.  
+6. **Test on edge cases** — empty input, large numbers, maximum/minimum limits.
+
+---
+
+## 5. Common Mistakes Beginners Make
+
+- Misreading the problem or ignoring constraints.  
+- Skipping the planning step and starting to code immediately.  
+- Using the wrong data type (e.g., `int` instead of `long long`).  
+- Not testing edge cases.  
+- Writing messy or unstructured code.
+
+---
+
+## 6. Tips to Improve Problem Solving Skills
+
+- **Practice regularly** — small daily practice beats occasional marathon sessions.  
+- **Start simple** — focus on basic problems first.  
+- **Learn by debugging** — errors teach more than correct submissions.  
+- **Understand algorithms and patterns** — repetition, sorting, searching, etc.  
+- **Participate in contests** — helps improve speed and accuracy under pressure.
+
+---
+
+## 7. Mindset for Problem Solving
+
+- Be **patient** — some problems take time to understand.  
+- Be **persistent** — don’t give up if the solution is not immediate.  
+- Think **logically and step by step**.  
+- Focus on **accuracy first**, then speed.  
+- Collaborate and discuss concepts **outside contests** — never during contests.
+
+---
+
+## 8. Summary
+
+Problem Solving is the **heart of competitive programming**.  
+By understanding problems, planning algorithms, implementing correctly, and practicing regularly, beginners can build a strong foundation for ICPC and other contests.
+
+---
